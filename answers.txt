@@ -1,0 +1,5 @@
+Q1: 5da74a11
+Q2: 3
+Q3: git pull origin main --rebase, The command fetches the new commits from your teammate on github.
+Q4: No as it only prevents future untracked changes from being staged.
+Q5: git branch -d old-fix, git push origin --delete old-fix
